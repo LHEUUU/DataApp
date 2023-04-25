@@ -10,7 +10,7 @@ Then, at the end of the day, the boss collects the paper and sees who made the t
 that each driver will receive taking into account the number of trips they made and how many people they took on these trips.
 
 Therefore, the app I'm developing comes to optimize this process. 
-Instead of writing on paper, the worker enter their numbers and how many people they take on the trip into the app. 
+Instead of writing on paper, the drivers enter their numbers and how many people they take on the trip into the app. 
 This data is deposited in the Firebase and then read again by the app, which processes this data and at the end delivers documents to the Firebase that say how many
 trips each driver has made, the type of trips they have made and how much bonus they will receive for the trips made.
 
